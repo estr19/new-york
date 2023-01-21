@@ -27,10 +27,28 @@ body {
   font-weight: 700;
   color: #99dffe;
   border: 2px solid #FFFFFF;
+  border-radius: 10px;
 }
 
 .link:hover {
   color: #FFFFFF;
+}
+
+.material-symbols-outlined {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0em 0.5em;
+  line-height: 150%;
+  font-size: 3em;
+  color: #99dffe;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
 }
 
 .opaque {
